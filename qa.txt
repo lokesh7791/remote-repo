@@ -1,1 +1,1 @@
-hello this is qa local repo
+hello this is qa local repository
